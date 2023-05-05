@@ -1,5 +1,3 @@
-### 👋 Hi there I'm André Luiz ! 👋
-
 <div align="">
   <a href="https://github.com/andreluizsm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizsm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
